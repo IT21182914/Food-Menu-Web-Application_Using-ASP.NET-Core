@@ -3,7 +3,6 @@ using Menu.Data;
 using Menu.Models;
 using Microsoft.EntityFrameworkCore;
 
-//comment added
 namespace Menu.Controllers
 {
     public class Menu : Controller
